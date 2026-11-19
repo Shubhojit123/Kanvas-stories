@@ -3,19 +3,19 @@ export function TeamSection() {
     {
       name: "Digvijay",
       role: "Co-founder, creative director + lead photographer",
-      image: "/assets/team-portrait.png",
+      image: "/assets/digbijay.webp",
       bio: "Visionary storyteller with over 10 years of experience documenting royal weddings and heritage celebrations across Rajasthan.",
     },
     {
       name: "Ram",
       role: "Lead Photographer",
-      image: "/assets/about-right.png",
+      image: "/assets/ram.webp",
       bio: "Master of raw candid expressions and editorial framing with an innate sense for natural light.",
     },
     {
       name: "Kamlesh",
       role: "Cinematographer",
-      image: "/assets/about-left.png",
+      image: "/assets/kamlesh.webp",
       bio: "Crafting 4K cinematic films with atmospheric rhythm, emotional depth, and director-grade color grading.",
     },
   ];

@@ -9,7 +9,7 @@ export function HeroSection() {
       {/* Background Hero Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/assets/hero-banner.png"
+          src="/assets/hero-banner.webp"
           alt="Where Every Image Tells a Story - Kanvas Stories Jodhpur"
           className="w-full h-full object-cover object-center"
         />

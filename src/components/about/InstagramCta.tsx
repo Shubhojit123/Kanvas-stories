@@ -2,11 +2,11 @@ import { siteConfig } from "@/config/site";
 
 export function InstagramCta() {
   const instaImages = [
-    { src: "/assets/insta-1.png", alt: "Kanvas Stories Instagram 1" },
-    { src: "/assets/insta-2.png", alt: "Kanvas Stories Instagram 2" },
-    { src: "/assets/insta-3.png", alt: "Kanvas Stories Instagram 3" },
-    { src: "/assets/insta-4.png", alt: "Kanvas Stories Instagram 4" },
-    { src: "/assets/insta-5.png", alt: "Kanvas Stories Instagram 5" },
+    { src: "/assets/insta-1.webp", alt: "Kanvas Stories Instagram 1" },
+    { src: "/assets/insta-2.webp", alt: "Kanvas Stories Instagram 2" },
+    { src: "/assets/insta-3.webp", alt: "Kanvas Stories Instagram 3" },
+    { src: "/assets/insta-4.webp", alt: "Kanvas Stories Instagram 4" },
+    { src: "/assets/insta-5.webp", alt: "Kanvas Stories Instagram 5" },
   ];
 
   return (

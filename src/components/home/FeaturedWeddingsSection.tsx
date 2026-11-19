@@ -21,7 +21,7 @@ const weddingStories: WeddingStory[] = [
     venue: "The Chandra Grand, Jodhpur (Raj. India)",
     description:
       "The Chandra Grand in Jodhpur (Raj. India) was the perfect location for this beautiful Indian Hindu Wedding Ceremony. The picturesque venue provided a romantic backdrop for the couple to exchange their vows. The bride meticulously handpicked every detail and color of the wedding and reception, resulting in a truly breathtaking event.",
-    image: "/assets/featured-1.png",
+    image: "/assets/featured-1.webp",
   },
   {
     id: "mn",
@@ -31,7 +31,7 @@ const weddingStories: WeddingStory[] = [
     venue: "Umaid Bhawan Palace, Jodhpur",
     description:
       "A grand royal union celebrated amidst the majestic domes and sandstone courtyards of Umaid Bhawan Palace. From a high-energy Baraat to an intimate starlit reception, every moment reflected pure regal romance and joy.",
-    image: "/assets/featured-2.png",
+    image: "/assets/featured-2.webp",
   },
   {
     id: "sh",
@@ -41,7 +41,7 @@ const weddingStories: WeddingStory[] = [
     venue: "Ajit Bhawan & Mehrangarh Fort",
     description:
       "Set against the dramatic silhouette of Mehrangarh Fort and the royal heritage lawns of Ajit Bhawan, this destination celebration seamlessly brought together timeless Punjabi fervor and Rajasthani royal grandeur.",
-    image: "/assets/featured-3.png",
+    image: "/assets/featured-3.webp",
   },
 ];
 
@@ -57,7 +57,7 @@ export function FeaturedWeddingsSection() {
       {/* Background Lineart Watermark Overlay */}
       <div className="absolute inset-0 pointer-events-none opacity-30 z-0">
         <img
-          src="/assets/featured-lineart.png"
+          src="/assets/featured-lineart.webp"
           alt="Rajasthan Ethnic Line Art Pattern"
           className="w-full h-full object-cover object-center"
         />

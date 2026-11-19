@@ -17,7 +17,7 @@ export function SpecializationSection() {
           {/* Photo 1: IMG_9032 (left upper) */}
           <div className="absolute left-[3%] top-[140px] w-[24%] aspect-[357/237] shadow-xl overflow-hidden hover:scale-105 transition-transform duration-500">
             <img
-              src="/assets/mosaic-1.png"
+              src="/assets/mosaic-1.webp"
               alt="North Indian Wedding Rituals - Kanvas Stories"
               className="w-full h-full object-cover"
             />
@@ -26,7 +26,7 @@ export function SpecializationSection() {
           {/* Photo 2: RAM_8840 (left lower overlap) */}
           <div className="absolute left-[13%] top-[380px] w-[29%] aspect-[446/297] shadow-2xl z-10 overflow-hidden hover:scale-105 transition-transform duration-500">
             <img
-              src="/assets/mosaic-2.png"
+              src="/assets/mosaic-2.webp"
               alt="Bridal Details Jodhpur"
               className="w-full h-full object-cover"
             />
@@ -35,7 +35,7 @@ export function SpecializationSection() {
           {/* Photo 3: IMG_2163 (Center Grand Photo) */}
           <div className="absolute left-[33%] top-[90px] w-[37%] aspect-[567/377] shadow-2xl z-20 overflow-hidden hover:scale-105 transition-transform duration-500">
             <img
-              src="/assets/mosaic-3.png"
+              src="/assets/mosaic-3.webp"
               alt="Destination Wedding Couple in Jodhpur"
               className="w-full h-full object-cover"
             />
@@ -44,7 +44,7 @@ export function SpecializationSection() {
           {/* Photo 4: RAM_6938 (right upper) */}
           <div className="absolute right-[13%] top-[0px] w-[28%] aspect-[420/280] shadow-xl overflow-hidden hover:scale-105 transition-transform duration-500">
             <img
-              src="/assets/mosaic-4.png"
+              src="/assets/mosaic-4.webp"
               alt="Emotional Wedding Moments"
               className="w-full h-full object-cover"
             />
@@ -53,7 +53,7 @@ export function SpecializationSection() {
           {/* Photo 5: IMG_2343 (right lower) */}
           <div className="absolute right-[3%] top-[360px] w-[25%] aspect-[371/248] shadow-xl z-10 overflow-hidden hover:scale-105 transition-transform duration-500">
             <img
-              src="/assets/mosaic-5.png"
+              src="/assets/mosaic-5.webp"
               alt="Royal Wedding Celebrations Rajasthan"
               className="w-full h-full object-cover"
             />
@@ -64,35 +64,35 @@ export function SpecializationSection() {
         <div className="lg:hidden grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8 max-w-4xl mx-auto">
           <div className="sm:col-span-2 aspect-[16/10] overflow-hidden rounded-lg shadow-xl">
             <img
-              src="/assets/mosaic-3.png"
+              src="/assets/mosaic-3.webp"
               alt="Destination Wedding Couple in Jodhpur"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/3] overflow-hidden rounded-lg shadow-md">
             <img
-              src="/assets/mosaic-1.png"
+              src="/assets/mosaic-1.webp"
               alt="North Indian Wedding Rituals"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/3] overflow-hidden rounded-lg shadow-md">
             <img
-              src="/assets/mosaic-4.png"
+              src="/assets/mosaic-4.webp"
               alt="Emotional Wedding Moments"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/3] overflow-hidden rounded-lg shadow-md">
             <img
-              src="/assets/mosaic-2.png"
+              src="/assets/mosaic-2.webp"
               alt="Bridal Details Jodhpur"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/3] overflow-hidden rounded-lg shadow-md">
             <img
-              src="/assets/mosaic-5.png"
+              src="/assets/mosaic-5.webp"
               alt="Royal Wedding Celebrations"
               className="w-full h-full object-cover"
             />

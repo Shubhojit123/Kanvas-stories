@@ -5,7 +5,7 @@ export function AboutSection() {
         {/* Left Floating Image (matching Figma IMG_7975) */}
         <div className="hidden lg:block absolute left-0 top-1/2 -translate-y-1/2 w-[28%] max-w-[540px] aspect-[629/434] shadow-2xl overflow-hidden">
           <img
-            src="/assets/about-left.png"
+            src="/assets/about-left.webp"
             alt="Bride in Palatial Setting Jodhpur"
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
           />
@@ -39,7 +39,7 @@ export function AboutSection() {
         {/* Right Floating Image (matching Figma IMG_2191) */}
         <div className="hidden lg:block absolute right-0 top-1/2 -translate-y-1/2 w-[20%] max-w-[380px] aspect-[379/585] shadow-2xl overflow-hidden">
           <img
-            src="/assets/about-right.png"
+            src="/assets/about-right.webp"
             alt="Regal Groom & Bride Portrait Jodhpur"
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
           />
@@ -50,14 +50,14 @@ export function AboutSection() {
       <div className="lg:hidden mt-8 grid grid-cols-2 gap-4 px-6 max-w-lg mx-auto">
         <div className="aspect-[4/3] rounded overflow-hidden shadow-md">
           <img
-            src="/assets/about-left.png"
+            src="/assets/about-left.webp"
             alt="Bride in Palatial Setting"
             className="w-full h-full object-cover"
           />
         </div>
         <div className="aspect-[4/3] rounded overflow-hidden shadow-md">
           <img
-            src="/assets/about-right.png"
+            src="/assets/about-right.webp"
             alt="Regal Groom & Bride Portrait"
             className="w-full h-full object-cover"
           />

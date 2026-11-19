@@ -36,7 +36,7 @@ export function TeamSection() {
         {/* Right Large Image */}
         <div className="w-full lg:w-[65%] aspect-[994/667] overflow-hidden shadow-2xl rounded-sm">
           <img
-            src="/assets/team-portrait.png"
+            src="/assets/team-portrait.webp"
             alt="Kanvas Stories Photography Team in Action Jodhpur"
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
           />

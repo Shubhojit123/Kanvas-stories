@@ -6,7 +6,7 @@ export function AboutHero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/assets/about-hero.png"
+          src="/assets/about-hero.webp"
           alt="Capturing natural moments of joy & celebration - Kanvas Stories"
           className="w-full h-full object-cover object-center"
         />

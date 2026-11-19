@@ -5,7 +5,7 @@ export const siteConfig = {
   description:
     "Kanvas Stories specializes in North Indian, Fusion & Luxury Destination Weddings. Based in Jodhpur, Rajasthan, capturing timeless wedding stories and cinematic moments worldwide.",
   url: "https://kanvasstories.com",
-  ogImage: "/assets/hero-banner.png",
+  ogImage: "/assets/hero-banner.webp",
   contact: {
     phone: "+91 77421 97056",
     rawPhone: "+917742197056",

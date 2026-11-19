@@ -43,14 +43,14 @@ export function OurStory() {
         <div className="w-full lg:w-[48%] grid grid-cols-2 gap-4 sm:gap-6">
           <div className="aspect-[4/5] rounded overflow-hidden shadow-xl">
             <img
-              src="/assets/mosaic-3.png"
+              src="/assets/mosaic-3.webp"
               alt="Destination Wedding Moments"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
             />
           </div>
           <div className="aspect-[4/5] rounded overflow-hidden shadow-xl translate-y-6">
             <img
-              src="/assets/about-hero.png"
+              src="/assets/about-hero.webp"
               alt="Traditional Royal Vows"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
             />

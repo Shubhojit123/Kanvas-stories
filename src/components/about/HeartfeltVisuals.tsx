@@ -5,7 +5,7 @@ export function HeartfeltVisuals() {
         {/* Left Floating Image */}
         <div className="hidden lg:block absolute left-0 top-1/2 -translate-y-1/2 w-[25%] max-w-[480px] aspect-[541/447] shadow-xl overflow-hidden">
           <img
-            src="/assets/about-left.png"
+            src="/assets/about-left.webp"
             alt="Authentic Emotional Moments Jodhpur"
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
           />
@@ -30,7 +30,7 @@ export function HeartfeltVisuals() {
         {/* Right Floating Image */}
         <div className="hidden lg:block absolute right-0 top-1/2 -translate-y-1/2 w-[20%] max-w-[360px] aspect-[383/447] shadow-xl overflow-hidden">
           <img
-            src="/assets/about-right.png"
+            src="/assets/about-right.webp"
             alt="Editorial Wedding Portraits Rajasthan"
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
           />
@@ -41,14 +41,14 @@ export function HeartfeltVisuals() {
       <div className="lg:hidden mt-8 grid grid-cols-2 gap-4 px-6 max-w-lg mx-auto">
         <div className="aspect-[4/3] rounded overflow-hidden shadow-md">
           <img
-            src="/assets/about-left.png"
+            src="/assets/about-left.webp"
             alt="Authentic Emotional Moments"
             className="w-full h-full object-cover"
           />
         </div>
         <div className="aspect-[4/3] rounded overflow-hidden shadow-md">
           <img
-            src="/assets/about-right.png"
+            src="/assets/about-right.webp"
             alt="Editorial Wedding Portraits"
             className="w-full h-full object-cover"
           />
